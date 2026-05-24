@@ -1,0 +1,17 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 数据文件（避免上传大文件）
+data/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter临时文件
+.ipynb_checkpoints/
+
+# VS Code配置
+.vscode/
